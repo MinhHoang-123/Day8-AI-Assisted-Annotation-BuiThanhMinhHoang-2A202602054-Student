@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị che ở góc trên trái,added,còn nhìn thấy  đèn của 3 xe trong ảnh
+1,frame_0107.jpg,2 xe 1 khung,added,vẫn nhìn thấy 2 xe trong ảnh
+1,frame_0187.jpg,xe trên cùng trái trên vỉa hè,added,còn nhìn thấy  đèn của xe trong ảnh
